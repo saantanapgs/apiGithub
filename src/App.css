@@ -51,6 +51,7 @@ main {
   align-items: center;
   width: 50%;
   gap: 15px;
+  color: black;
 }
 
 .form input {
